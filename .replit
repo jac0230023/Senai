@@ -6,3 +6,15 @@ channel = "stable-24_05"
 
 [deployment]
 run = ["sh", "-c", "Run"]
+
+[workflows]
+runButton = "Executar Java"
+
+[[workflows.workflow]]
+name = "Executar Java"
+author = 44181573
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "cd NotasALuno && javac src/Main.java && java -cp src Main"

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TabelasNotas.iml" filepath="$PROJECT_DIR$/TabelasNotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabelaNotas.iml" filepath="$PROJECT_DIR$/TabelaNotas.iml" />
     </modules>
   </component>
 </project>

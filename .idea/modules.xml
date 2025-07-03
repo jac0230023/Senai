@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fatorial/Fatorial.iml" filepath="$PROJECT_DIR$/Fatorial/Fatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewProduct/NewProduct.iml" filepath="$PROJECT_DIR$/NewProduct/NewProduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotasALuno/NotasALuno.iml" filepath="$PROJECT_DIR$/NotasALuno/NotasALuno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Senai.iml" filepath="$PROJECT_DIR$/.idea/Senai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimuladorDeBiblioteca/SimuladorDeBiblioteca.iml" filepath="$PROJECT_DIR$/SimuladorDeBiblioteca/SimuladorDeBiblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabelasNotas/TabelasNotas.iml" filepath="$PROJECT_DIR$/TabelasNotas/TabelasNotas.iml" />
+    </modules>
+  </component>
+</project>
